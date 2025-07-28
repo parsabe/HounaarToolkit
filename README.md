@@ -5,8 +5,6 @@
 HounaarToolkit is a versatile Python toolkit that provides a set of tools for various tasks, including data analysis, YouTube video downloading, cryptocurrency price checking, typing automation, network scanning, and rootkit detection. This toolkit aims to simplify and streamline these common tasks into a single, easy-to-use package.
 
 
-
-
 ## Features
 
 - **Data Analysis AI:** Perform data analysis with AI-powered tools to gain insights from your data effortlessly.
